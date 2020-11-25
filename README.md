@@ -2,3 +2,5 @@
 BS21010 Git lesson 
 
 ## Try to edit and then we can pull
+
+And now we can push
